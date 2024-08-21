@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\details\\details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\details\\details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\details\\details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\details\\details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\list\\list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\list\\list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\list\\list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\list\\list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\edit\\edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\create\\create.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\create\\create.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\create\\create.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\create\\create.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\details\\details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\details\\details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\list\\list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\list\\list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\positions.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\positions.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\players.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\players.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\position.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\position.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\player.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\player.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\players-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\players-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\players.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\players.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\services\\positionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\services\\positionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\services\\playersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\services\\playersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\services\\ipositionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\services\\ipositionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\services\\iplayersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\services\\iplayersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\edit\\edit.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\create\\create.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\create\\create.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\players.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\players.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\players\\create\\create.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\players\\create\\create.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5696022D-721C-44C3-A5F4-D927E955500F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\hp\\source\\repos\\angularapp1\\angularapp1.server\\data\\footballdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA282A8-B5D6-48E1-A4A6-77F06DEBE489}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\data\\footballdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "list.component.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\list\\list.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\list\\list.component.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\list\\list.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\list\\list.component.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T07:37:48.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.component.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\list\\list.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\list\\list.component.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\list\\list.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\list\\list.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T09:49:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "create.component.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\create\\create.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\create\\create.component.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\create\\create.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\create\\create.component.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T07:48:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "create.component.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\create\\create.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\create\\create.component.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\create\\create.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\create\\create.component.ts",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:48:37.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "details.component.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\details\\details.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\details\\details.component.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\details\\details.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\details\\details.component.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T07:48:16.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "details.component.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\details\\details.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\details\\details.component.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\details\\details.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\details\\details.component.css",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T09:46:20.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "details.component.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\details\\details.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\details\\details.component.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\details\\details.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\details\\details.component.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:48:03.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nav-menu.component.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T07:29:47.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "edit.component.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\edit\\edit.component.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\edit\\edit.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:49:11.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "edit.component.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\edit\\edit.component.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\edit\\edit.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T07:49:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "list.component.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\list\\list.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\list\\list.component.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\list\\list.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\list\\list.component.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:37:13.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "positions.service.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\positions.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\positions.service.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\positions.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\positions.service.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:31:25.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "players.service.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\players.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\players.service.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\players.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\players.service.ts",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:31:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "position.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\position.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\position.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\position.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\position.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:27:41.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "player.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\player.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\player.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\player.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\player.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:30:51.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:30:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "players-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\players-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\players-routing.module.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\players-routing.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\players-routing.module.ts",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:27:26.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "players.module.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\players.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\players.module.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\players.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\players.module.ts",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:26:28.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PositionsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\PositionsController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\PositionsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\PositionsController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\PositionsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:20:08.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:19:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PositionsService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Services\\PositionsService.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Services\\PositionsService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Services\\PositionsService.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Services\\PositionsService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:14:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayersService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Services\\PlayersService.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Services\\PlayersService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Services\\PlayersService.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Services\\PlayersService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:13:36.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPositionsService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Services\\IPositionsService.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Services\\IPositionsService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Services\\IPositionsService.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Services\\IPositionsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:11:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPlayersService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Services\\IPlayersService.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Services\\IPlayersService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Services\\IPlayersService.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Services\\IPlayersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:09:01.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\home\\home.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T08:23:05.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeToolTip": "AngularApp1.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T05:47:44.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "nav-menu.component.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:41:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "nav-menu.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T11:34:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "nav-menu.component.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T07:29:44.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T08:22:23.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\home\\home.component.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\home\\home.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T08:22:19.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "edit.component.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\edit\\edit.component.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\edit\\edit.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\edit\\edit.component.css",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T09:47:39.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:37:44.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "players.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\players.service.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\players.service.spec.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\players.service.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\players.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:35:27.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "create.component.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\create\\create.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\create\\create.component.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\create\\create.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\create\\create.component.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T09:45:09.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "create.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\create\\create.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\players\\create\\create.component.spec.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\players\\create\\create.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\players\\create\\create.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T09:41:15.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\angular.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeToolTip": "angularapp1.client\\angular.json",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T07:40:06.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:42:41.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T07:51:59.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\styles.css",
+              "RelativeToolTip": "angularapp1.client\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T08:17:38.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T07:43:56.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T07:58:44.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T08:15:38.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\angularapp1.client\\src\\index.html",
+              "RelativeToolTip": "angularapp1.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T07:55:57.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AngularApp1.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\AngularApp1.Server.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+              "RelativeToolTip": "AngularApp1.Server\\AngularApp1.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T05:22:31.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FootballDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Data\\FootballDbContext.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Data\\FootballDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AngularApp1\\AngularApp1.Server\\Data\\FootballDbContext.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Data\\FootballDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:46:45.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
